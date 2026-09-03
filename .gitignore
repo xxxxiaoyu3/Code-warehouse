@@ -1,0 +1,12 @@
+# Keil / MDK 编译产物
+Objects/
+Listings/
+build/
+DebugConfig/
+*.uvguix.*
+*.uvgui.*
+*.bak
+
+# 系统
+Thumbs.db
+.DS_Store
